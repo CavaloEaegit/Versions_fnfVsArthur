@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Arthur Menu",
+	"image": "Menu_Arthur",
+	"position": [
+		142,
+		-52
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "Arthur Menu"
+}

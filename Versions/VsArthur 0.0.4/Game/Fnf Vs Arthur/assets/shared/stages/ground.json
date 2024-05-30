@@ -1,0 +1,9 @@
+{
+	"directory": "week8",
+	"defaultZoom": 1.0,
+	"stageUI": "",
+
+	"boyfriend": [280, 100],
+	"girlfriend": [-270, 60],
+	"opponent": [-500, 120]
+}

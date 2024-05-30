@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				260,
+				419
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "ap dead"
+		},
+		{
+			"offsets": [
+				797,
+				269
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "ap conf"
+		},
+		{
+			"offsets": [
+				227,
+				363
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "ap deadloop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/arthurdead",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "arthur",
+	"flip_x": true,
+	"healthbar_colors": [
+		253,
+		253,
+		253
+	],
+	"camera_position": [
+		350,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

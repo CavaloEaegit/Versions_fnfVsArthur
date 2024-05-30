@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fraud.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fraud down0000" x="0" y="0" width="595" height="751" frameX="0" frameY="-10" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0001" x="0" y="0" width="595" height="751" frameX="0" frameY="-10" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0002" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0003" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0004" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0005" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0006" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0007" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0008" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0009" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0010" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0011" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0012" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud down0013" x="595" y="0" width="593" height="761" frameX="0" frameY="0" frameWidth="595" frameHeight="761"/>
+	<SubTexture name="fraud idle0000" x="1188" y="0" width="605" height="774" frameX="-67" frameY="-17" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0001" x="1188" y="0" width="605" height="774" frameX="-67" frameY="-17" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0002" x="1793" y="0" width="592" height="785" frameX="-39" frameY="-6" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0003" x="1793" y="0" width="592" height="785" frameX="-39" frameY="-6" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0004" x="2385" y="0" width="596" height="791" frameX="-27" frameY="0" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0005" x="2385" y="0" width="596" height="791" frameX="-27" frameY="0" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0006" x="2981" y="0" width="618" height="791" frameX="-10" frameY="0" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0007" x="0" y="791" width="621" height="791" frameX="-5" frameY="0" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0008" x="621" y="791" width="626" height="789" frameX="0" frameY="-2" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0009" x="621" y="791" width="626" height="789" frameX="0" frameY="-2" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0010" x="621" y="791" width="626" height="789" frameX="0" frameY="-2" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0011" x="621" y="791" width="626" height="789" frameX="0" frameY="-2" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0012" x="621" y="791" width="626" height="789" frameX="0" frameY="-2" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud idle0013" x="621" y="791" width="626" height="789" frameX="0" frameY="-2" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="fraud left0000" x="1247" y="791" width="534" height="799"/>
+	<SubTexture name="fraud left0001" x="1247" y="791" width="534" height="799"/>
+	<SubTexture name="fraud left0002" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0003" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0004" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0005" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0006" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0007" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0008" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0009" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0010" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0011" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0012" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud left0013" x="1781" y="791" width="524" height="793" frameX="-10" frameY="-6" frameWidth="534" frameHeight="799"/>
+	<SubTexture name="fraud ouch0000" x="2305" y="791" width="674" height="837" frameX="0" frameY="0" frameWidth="712" frameHeight="837"/>
+	<SubTexture name="fraud ouch0001" x="2305" y="791" width="674" height="837" frameX="0" frameY="0" frameWidth="712" frameHeight="837"/>
+	<SubTexture name="fraud ouch0002" x="2979" y="791" width="666" height="814" frameX="0" frameY="-23" frameWidth="712" frameHeight="837"/>
+	<SubTexture name="fraud ouch0003" x="0" y="1628" width="666" height="814" frameX="0" frameY="-23" frameWidth="712" frameHeight="837"/>
+	<SubTexture name="fraud ouch0004" x="666" y="1628" width="637" height="810" frameX="-75" frameY="-27" frameWidth="712" frameHeight="837"/>
+	<SubTexture name="fraud ouch0005" x="1303" y="1628" width="611" height="810" frameX="-75" frameY="-27" frameWidth="712" frameHeight="837"/>
+	<SubTexture name="fraud ouch0006" x="1914" y="1628" width="526" height="792" frameX="-174" frameY="-41" frameWidth="712" frameHeight="837"/>
+	<SubTexture name="fraud right0000" x="2440" y="1628" width="656" height="783" frameX="-1" frameY="-6" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0001" x="2440" y="1628" width="656" height="783" frameX="-1" frameY="-6" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0002" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0003" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0004" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0005" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0006" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0007" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0008" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0009" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0010" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0011" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0012" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud right0013" x="3096" y="1628" width="640" height="789" frameX="0" frameY="0" frameWidth="657" frameHeight="789"/>
+	<SubTexture name="fraud up0000" x="0" y="2442" width="592" height="820" frameX="0" frameY="-44" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0001" x="0" y="2442" width="592" height="820" frameX="0" frameY="-44" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0002" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0003" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0004" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0005" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0006" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0007" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0008" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0009" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0010" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0011" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0012" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="fraud up0013" x="592" y="2442" width="555" height="864" frameX="-24" frameY="0" frameWidth="592" frameHeight="864"/>
+	<SubTexture name="intro0000" x="1188" y="0" width="605" height="774" frameX="-66" frameY="-17" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="intro0001" x="1188" y="0" width="605" height="774" frameX="-66" frameY="-17" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="intro0002" x="1793" y="0" width="592" height="785" frameX="-39" frameY="-6" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="intro0003" x="1793" y="0" width="592" height="785" frameX="-39" frameY="-6" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="intro0004" x="2385" y="0" width="596" height="791" frameX="-26" frameY="0" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="intro0005" x="2385" y="0" width="596" height="791" frameX="-26" frameY="0" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="intro0006" x="2981" y="0" width="618" height="791" frameX="-10" frameY="0" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="intro0007" x="0" y="791" width="621" height="791" frameX="-5" frameY="-1" frameWidth="672" frameHeight="791"/>
+	<SubTexture name="intro0008" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0009" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0010" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0011" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0012" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0013" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0014" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0015" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0016" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0017" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0018" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0019" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0020" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0021" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0022" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0023" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0024" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0025" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0026" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0027" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0028" x="1147" y="2442" width="626" height="788" frameX="0" frameY="-3" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0029" x="1773" y="2442" width="626" height="772" frameX="0" frameY="-19" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0030" x="1773" y="2442" width="626" height="772" frameX="0" frameY="-19" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0031" x="2399" y="2442" width="626" height="777" frameX="0" frameY="-14" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0032" x="2399" y="2442" width="626" height="777" frameX="0" frameY="-14" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0033" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0034" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0035" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0036" x="1773" y="2442" width="626" height="772" frameX="0" frameY="-19" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0037" x="1773" y="2442" width="626" height="772" frameX="0" frameY="-19" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0038" x="2399" y="2442" width="626" height="777" frameX="0" frameY="-14" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0039" x="2399" y="2442" width="626" height="777" frameX="0" frameY="-14" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0040" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0041" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0042" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0043" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0044" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0045" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0046" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0047" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0048" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0049" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0050" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0051" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+	<SubTexture name="intro0052" x="3025" y="2442" width="626" height="784" frameX="0" frameY="-7" frameWidth="671" frameHeight="791"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+TODO:
+- N/A
+
+DOING:
+- N/A
+
+HOLD: (Putting these tasks on hold while i do other ones)
+
+COMPLETED:
+- Asset Overhaul shit
+- Update freeplay menu
+- Update Options menu 
+- Add NoteSplashes
+- Week 7 stage layering
+- Tankman's gameover lines
+- Cutscene Handler
+- Make tank move in the back also every 10-20 seconds
+- Week 7 Stage Re-code
+- Pico Shoot, & Tankmen running/getting shot during each beat
+- Added Monster [Week 2 shit]
+- Week 6 Dialogue fixes
+- Input System fixes 
+- Fix stupid checkbox layering issue
+- Fix issue where stages only preload when ur on a specific week
+- Week 7 cutscenes [Desktop] (sry for the year wait lmao, BUT ITS DONE SO WHATEVER)

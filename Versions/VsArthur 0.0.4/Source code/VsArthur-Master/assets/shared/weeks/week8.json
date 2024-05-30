@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"under",
+			"arthur",
+			[
+				155,
+				155,
+				195
+			]
+		],
+		[
+			"deceiver",
+			"fraud",
+			[
+				135,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "ground",
+	"difficulties": "",
+	"weekCharacters": [
+		"arthur",
+		"bf",
+		"gf"
+	],
+	"storyName": "ARTHURRRRRRR",
+	"weekName": "weekA",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

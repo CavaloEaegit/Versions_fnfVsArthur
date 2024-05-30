@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				185,
+				-45
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ap idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-65
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ap down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				229,
+				-48
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ap right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ap up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ap left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				-49
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "ap intro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-110
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-160
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-180
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-180
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-91
+			],
+			"anim": "prepare",
+			"fps": 24,
+			"name": "ap prepare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				264,
+				-53
+			],
+			"anim": "atack",
+			"fps": 24,
+			"name": "ap attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/arthur-player",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "arthur",
+	"flip_x": true,
+	"healthbar_colors": [
+		253,
+		253,
+		253
+	],
+	"camera_position": [
+		240,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

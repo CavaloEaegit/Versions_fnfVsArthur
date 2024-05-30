@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				58,
+				-21
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fraud idle"
+		},
+		{
+			"offsets": [
+				33,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fraud down"
+		},
+		{
+			"offsets": [
+				4,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fraud right"
+		},
+		{
+			"offsets": [
+				87,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fraud up"
+		},
+		{
+			"offsets": [
+				72,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fraud left"
+		},
+		{
+			"offsets": [
+				58,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "intro"
+		},
+		{
+			"offsets": [
+				190,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "fraud ouch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fraud",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fraud",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		115,
+		115
+	],
+	"camera_position": [
+		-50,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}
